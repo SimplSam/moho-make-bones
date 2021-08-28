@@ -10,6 +10,7 @@
 
 * To install:
 
+  - Download latest release: [ss_make_bones.zip](https://github.com/SimplSam/moho-make-bones/releases/latest/download/ss_make_bones.zip)
   - Save the 'ss_make_bones.lua' and 'ss_make_bones.png' files to your computer into your &lt;custom&gt;/scripts/tool folder
   - Reload Moho/AnimeStudio scripts (or Restart Moho)
 
