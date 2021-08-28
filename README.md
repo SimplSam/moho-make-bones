@@ -22,6 +22,9 @@
 * Notes:
     - The tool is primarily intended to be used at rigging & design time, but should cope with some limited pre-existing animation (reparenting and repositioning) if those elements of the _selected bone_ and/or _children_ have already been keyframed.
 
+### Demo ###
+![ss-make-bones-demo-01](https://i.ibb.co/Jshgbkx/ss-make-bones-demo-01-x1200.gif)
+
 ### Options & Features ###
 
 * Set the **No. of Pieces #** that the selected bone should be broken into (or # clones)
@@ -37,7 +40,6 @@
     * Use **ReAngle First Bone** - if you also want the base bone to have an angular offset
 * Use **Reset** to restore default settings. **OK** to Apply settings & changes. **Cancel** to Cancel
 
-![ss-make-bones-demo-01](https://i.ibb.co/Jshgbkx/ss-make-bones-demo-01-x1200.gif)
 &nbsp;
 * The color of the base bone will be copied to the new bones
 * New bones are auto-named based the name of the base bone (MH12+)
@@ -49,9 +51,3 @@
 &nbsp;
 
 \* ‘_base bone’ is the originally selected bone, which may itself be altered in size & rotation by the Split/Clone process_
-
-**Available Now at**:
-
-- http://mohoscripts.com/script/ss_make_bones
-
-- https://github.com/SimplSam/moho-make-bones/archive/master.zip (latest release)
