@@ -48,6 +48,10 @@
 * Compatible with AS11+
 * Optimised for MH12+
 
+\* ‘_base bone’ is the originally selected bone, which may itself be altered in size & rotation by the Split/Clone process_
 &nbsp;
 
-\* ‘_base bone’ is the originally selected bone, which may itself be altered in size & rotation by the Split/Clone process_
+## SPECIAL THANKS to: ##
+
+*	Stan (and the team): MOHO Scripting -- https://mohoscripting.com
+*	The friendly faces @ Lost Marble Moho forum -- https://www.lostmarble.com/forum/
